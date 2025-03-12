@@ -1,0 +1,67 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" id="flag-icon-css-in" viewBox="0 0 640 480" width="640"  height="480" ><defs><g id="in_a" fill="#000088">
+<circle r=".9" transform="rotate(7.5 -8.8 133.5)" fill="#000088"></circle>
+<path d="M0 17.5L.6 7 0 2l-.6 5L0 17.5z" fill="#000088"></path>
+</g><g id="in_b">
+<g id="in_a" fill="#000088">
+<circle r=".9" transform="rotate(7.5 -8.8 133.5)" fill="#000088"></circle>
+<path d="M0 17.5L.6 7 0 2l-.6 5L0 17.5z" fill="#000088"></path>
+</g>
+<use width="100%" height="100%" transform="rotate(15)" xlink:href="#in_a"></use>
+</g><g id="in_c">
+<g id="in_b">
+<g id="in_a" fill="#000088">
+<circle r=".9" transform="rotate(7.5 -8.8 133.5)" fill="#000088"></circle>
+<path d="M0 17.5L.6 7 0 2l-.6 5L0 17.5z" fill="#000088"></path>
+</g>
+<use width="100%" height="100%" transform="rotate(15)" xlink:href="#in_a"></use>
+</g>
+<use width="100%" height="100%" transform="rotate(30)" xlink:href="#in_b"></use>
+</g><g id="in_d">
+<g id="in_c">
+<g id="in_b">
+<g id="in_a" fill="#000088">
+<circle r=".9" transform="rotate(7.5 -8.8 133.5)" fill="#000088"></circle>
+<path d="M0 17.5L.6 7 0 2l-.6 5L0 17.5z" fill="#000088"></path>
+</g>
+<use width="100%" height="100%" transform="rotate(15)" xlink:href="#in_a"></use>
+</g>
+<use width="100%" height="100%" transform="rotate(30)" xlink:href="#in_b"></use>
+</g>
+<use width="100%" height="100%" transform="rotate(60)" xlink:href="#in_c"></use>
+</g><g id="in_d">
+<g id="in_c">
+<g id="in_b">
+<g id="in_a" fill="#000088">
+<circle r=".9" transform="rotate(7.5 -8.8 133.5)" fill="#000088"></circle>
+<path d="M0 17.5L.6 7 0 2l-.6 5L0 17.5z" fill="#000088"></path>
+</g>
+<use width="100%" height="100%" transform="rotate(15)" xlink:href="#in_a"></use>
+</g>
+<use width="100%" height="100%" transform="rotate(30)" xlink:href="#in_b"></use>
+</g>
+<use width="100%" height="100%" transform="rotate(60)" xlink:href="#in_c"></use>
+</g></defs>
+<path fill="#FF9933" d="M0 0h640v160H0z"></path>
+<path fill="#FFFFFF" d="M0 160h640v160H0z"></path>
+<path fill="#128807" d="M0 320h640v160H0z"></path>
+<g transform="matrix(3.2 0 0 3.2 320 240)">
+<circle r="20" fill="#000088"></circle>
+<circle r="17.5" fill="#FFFFFF"></circle>
+<circle r="3.5" fill="#000088"></circle>
+<g id="in_d">
+<g id="in_c">
+<g id="in_b">
+<g id="in_a" fill="#000088">
+<circle r=".9" transform="rotate(7.5 -8.8 133.5)" fill="#000088"></circle>
+<path d="M0 17.5L.6 7 0 2l-.6 5L0 17.5z" fill="#000088"></path>
+</g>
+<use width="100%" height="100%" transform="rotate(15)" xlink:href="#in_a"></use>
+</g>
+<use width="100%" height="100%" transform="rotate(30)" xlink:href="#in_b"></use>
+</g>
+<use width="100%" height="100%" transform="rotate(60)" xlink:href="#in_c"></use>
+</g>
+<use width="100%" height="100%" transform="rotate(120)" xlink:href="#in_d"></use>
+<use width="100%" height="100%" transform="rotate(-120)" xlink:href="#in_d"></use>
+</g>
+</svg>
